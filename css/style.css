@@ -1,0 +1,21 @@
+@import 'https://downqn.tuyoo.com/offical_accounts/libs/common.css';
+html {
+  font-size: 13.333vw;
+  font-family: "PingFangSC-Medium";
+}
+body {
+  background: #dede;
+  width: 7.5rem;
+  font-size: 0.3rem;
+  color: #333;
+  font-family: 'PingFangSC-Regular, sans-serif';
+  text-size-adjust: none;
+  -webkit-text-size-adjust: none!important;
+}
+::-webkit-scrollbar {
+  display: none;
+}
+::-webkit-scrollbar {
+  height: 0px;
+  background-color: transparent;
+}
